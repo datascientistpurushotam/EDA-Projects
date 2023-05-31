@@ -10,7 +10,6 @@ Purushotam     civilengineer.purushotam@gmail.com
 Highly committed coordinated team work for successful completion of the project.
 
 
-
 Please paste the GitHub Repo link.
 
 GitHub Link: - https://github.com/datascientistpurushotam/EDA-Projects/tree/Hotel_Booking_Analysis
