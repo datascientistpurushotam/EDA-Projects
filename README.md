@@ -1,22 +1,4 @@
-# projects
-#capstone project
-#Capstone Project Submission
-#hotel booking analysis
-#EDA for Alma Better
-Instructions:
-i) Please fill in all the required information.
-ii) Avoid grammatical errors.
 
-Team Member’s Name, Email and Contribution:
-Purushotam     civilengineer.purushotam@gmail.com
-Highly committed coordinated team work for successful completion of the project.
-
-Contributions:
-Highly committed coordinated team work for successful completion of the project.
-
-
-
-Please paste the GitHub Repo link.
 
 GitHub Link: - https://github.com/Purhsotam/projects.git
 
@@ -33,12 +15,7 @@ Question 8. Most favorable month for booking :-
 Question 9.Which are the top five agents for city hotel?
 Question 10. Hotel data based on month where repeated guest is 1:
 
-Approach
-We have divided the data into three parts 
-Data collection: -  
-Dataset has been provided by the Alma Better https://grow.almabetter.com/data-science/projects/Hotel-Booking-Analysis
-Data loading: -
-Dataset was loaded on google drive was loaded on goggle colab ('content/Hotel Bookings raw.csv’)
+Dataset Link: Dateset will be attached with the project
 Data Cleaning and manipulation: - For data cleaning NumPy, pandas, and matplotlib is used
 Removing the duplicates: - Analysing the data we found out of 119390 rows 31994 rows are duplicates so we removed them.
 Removing the company column with most nan values: - Analysing the company column we found it has only 5259 values are not nan remaining does not provide any significant data. So, we deleted the column.
@@ -57,3 +34,4 @@ Conclusion
 10.	So, March has the most Repeated guest 418
 
 From the above conclusions we can say that City hotels are the most preferred hotel type by the guests. We can say City hotel is the busiest hotel.
+Thank you
