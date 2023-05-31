@@ -11,7 +11,6 @@ Team Member’s Name, Email and Contribution:
 Purushotam     civilengineer.purushotam@gmail.com
 Highly committed coordinated team work for successful completion of the project.
 
-Rajat Sharma   rajatsharma6870@gmail.com
 Contributions:
 Highly committed coordinated team work for successful completion of the project.
 
