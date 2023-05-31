@@ -3,24 +3,19 @@
 #Capstone Project Submission
 #hotel booking analysis
 #EDA for Alma Better
-Instructions:
-i) Please fill in all the required information.
-ii) Avoid grammatical errors.
+
 
 Team Member’s Name, Email and Contribution:
 Purushotam     civilengineer.purushotam@gmail.com
-Highly committed coordinated team work for successful completion of the project.
-
-Contributions:
 Highly committed coordinated team work for successful completion of the project.
 
 
 
 Please paste the GitHub Repo link.
 
-GitHub Link: - https://github.com/Purhsotam/projects.git
+GitHub Link: - https://github.com/datascientistpurushotam/EDA-Projects/tree/Hotel_Booking_Analysis
 
-Please write a short summary of your Capstone project and its components. Describe the problem statement, your approaches and your conclusions. (200-400 words)
+Please write a short summary of your Capstone project and its components.
 Problem Statement
 Question 1. Which customer type preferred the most resort hotel?
 Question 2. Which type of hotel refunded the most?
@@ -36,7 +31,7 @@ Question 10. Hotel data based on month where repeated guest is 1:
 Approach
 We have divided the data into three parts 
 Data collection: -  
-Dataset has been provided by the Alma Better https://grow.almabetter.com/data-science/projects/Hotel-Booking-Analysis
+Dataset will be attach with the project
 Data loading: -
 Dataset was loaded on google drive was loaded on goggle colab ('content/Hotel Bookings raw.csv’)
 Data Cleaning and manipulation: - For data cleaning NumPy, pandas, and matplotlib is used
