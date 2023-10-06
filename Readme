@@ -1,0 +1,12 @@
+A lot of customer is churning in France based telecom company in America and they are Churning. So based on data they have about the customer they want a detailed EDA to be performed.
+
+Link to DataSet:- Dataset is uploded in this repository
+
+Pandas for data manipulation, aggregation
+
+Matplotlib and Seaborn for visualisation and behaviour with respect to the target variable. Use at least 5 different visualisations.
+
+NumPy for computationally efficient operations.
+
+Univariate , Bivariate and Multivariate Analysis will be done in this project.
+Thank you
